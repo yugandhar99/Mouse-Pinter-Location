@@ -1,1 +1,27 @@
+#heading 
+{
+	font-size: 1.5rem;
+}
+#output 
+{
+  	color: green;
+  	letter-spacing: 0.025em;
+  	line-height: 1.5rem;
+  	font-size: 1.5rem;
+  	margin-top: 2rem;
+}
 
+.large-text 
+{
+	margin-bottom: 1.5rem;
+}
+
+.content 
+{
+	background-color: white;	
+	text-align: center;
+  	padding: 2.5rem;
+  	border-radius: 0.5rem;
+  	max-width: 36rem;
+  	margin: 2rem auto;
+}
